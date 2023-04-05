@@ -8,6 +8,10 @@ description: >-
 
 
 
+Demo Repo: [https://github.com/cormacpujals/nextjs-docs-dive](https://github.com/cormacpujals/nextjs-docs-dive)
+
+GitBook Repo: [https://github.com/cormacpujals/GitBook-Next.js](https://github.com/cormacpujals/GitBook-Next.js)
+
 CH.1 SSR&#x20;
 
 CH.2 Start first chapter on page rendering (statically rendered page) rendered at build time. npm run build to see cache headers.&#x20;
