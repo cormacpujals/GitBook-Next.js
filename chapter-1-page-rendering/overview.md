@@ -1,4 +1,8 @@
-# Chapter 1, Rendering Pages
+---
+description: Page Rendering Methods with Next.js
+---
+
+# Overview
 
 Step 1: Remember how an HTML file served to a browser interacts with JavaScript loads
 
