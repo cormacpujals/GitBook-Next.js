@@ -2,7 +2,7 @@
 description: HTML is rendered at build time and reused for each request
 ---
 
-# Section 1, Static Site Generation
+# Static Site Generation (SSG)
 
 Static generation, the HTML is generated at build time and is reused for each request.
 

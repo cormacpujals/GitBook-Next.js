@@ -2,7 +2,7 @@
 description: HTML is generated on each request
 ---
 
-# Section 2, Server Side Rendering
+# Server Side Rendering (SSR)
 
 Assuming data needs to be fetched, that happens first and then the HTML is generated.
 
